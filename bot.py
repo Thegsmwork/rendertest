@@ -3,7 +3,7 @@ from gtts import gTTS
 import os
 
 # Telegram bot token
-BOT_TOKEN = ""
+BOT_TOKEN = "7224882890:AAHLe_G7vHnBLcL60cfThYAoKTOb0Xb5IIw"
 
 # Bot initialize
 bot = telebot.TeleBot(BOT_TOKEN)
